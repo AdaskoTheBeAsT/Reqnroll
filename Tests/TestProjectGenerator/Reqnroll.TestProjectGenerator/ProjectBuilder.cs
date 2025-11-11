@@ -20,7 +20,7 @@ namespace Reqnroll.TestProjectGenerator
         public const string NUnit4TestAdapterPackageName = "NUnit3TestAdapter";
         public const string NUnit4TestAdapterPackageVersion = "4.6.0";
         public const string TUnitPackageName = "TUnit";
-        public const string TUnitPackageVersion = "0.55.23";
+        public const string TUnitPackageVersion = "1.0.48";
         private const string XUnitPackageVersion = "2.8.1";
         private const string MSTestPackageVersion = "2.2.10";
         private const string MSTest4PackageVersion = "4.0.0";
